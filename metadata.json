@@ -1,0 +1,6 @@
+{
+  "name": "Reader",
+  "description": "Minimal, completely offline manga and manhwa reader for local ZIP and CBZ archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
